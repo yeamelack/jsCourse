@@ -5,7 +5,7 @@ console.log(myVariable.length);
 console.log("poop cock".length);
 
 
-//charAt: returns letter at given index
+//charAt: returns letter at given index 0-n
 console.log(myVariable.charAt(0));
 
 //indexOf: returns the index of the first occurrence of substring (case sensitive)
